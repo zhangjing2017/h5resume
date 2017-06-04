@@ -885,7 +885,7 @@ body {
     font-family:'黑体';
     position: absolute;
     top:2.35rem;
-    left:0.93rem;
+    left:0.88rem;
     font-size: 0.32rem;
     -webkit-animation: scale 0.5s linear 1.2s both;
     animation: scale 0.5s linear 1.2s both;
@@ -920,76 +920,76 @@ body {
     height: 0.44rem;
 }
 #page05 .DW .DW-right img:nth-child(1){
-    top:2.48rem;
+    top:2.25rem;
     left:1.65rem;
 }
 #page05 .DW .DW-right img:nth-child(2){
     width: 0.13rem;
     height: 0.44rem;
-    top:2.48rem;
+    top:2.25rem;
     left:1.95rem;
 }
 #page05 .DW .DW-right img:nth-child(3){
-    top:2.48rem;
+    top:2.25rem;
     left:2.25rem;
 }
 #page05 .DW .DW-right img:nth-child(4){
-    top:2.48rem;
+    top:2.25rem;
     left:2.55rem;
 }
 #page05 .DW .DW-right img:nth-child(5){
-    top:2.48rem;
+    top:2.25rem;
     left:1.65rem;
 }
 #page05 .DW .DW-right img:nth-child(6){
-    top:2.48rem;
+    top:2.25rem;
     left:2.85rem;
 }
 #page05 .DW .DW-right img:nth-child(7){
-    top:2.48rem;
+    top:2.25rem;
     left:3.15rem;
 }
 #page05 .DW .DW-right img:nth-child(8){
-    top:2.48rem;
+    top:2.25rem;
     left:3.45rem;
 }
 #page05 .DW .DW-right img:nth-child(9){
-    top:2.48rem;
+    top:2.25rem;
     left:3.75rem;
 }
 #page05 .DW .DW-right img:nth-child(10){
-    top:2.48rem;
+    top:2.25rem;
     left:4.05rem;
 }
 #page05 .DW .DW-right img:nth-child(11){
-    top:2.48rem;
+    top:2.25rem;
     left:4.35rem;
 }
 #page05 .DW .DW-right img:nth-child(12){
-    top:2.48rem;
+    top:2.25rem;
     left:4.65rem;
 }
 #page05 .DW .DW-right img:nth-child(13){
-    top:2.48rem;
+    top:2.25rem;
     left:4.95rem;
 }
 #page05 .DW .DW-right img:nth-child(14){
-    top:2.48rem;
+    top:2.25rem;
     left:5.25rem;
 }
 #page05 .DW .DW-right img:nth-child(15){
-    top:2.48rem;
+    top:2.25rem;
     left:5.55rem;
 }
 #page05 .DW .DW-right img:nth-child(16){
-    top:2.48rem;
+    top:2.25rem;
     left:5.85rem;
 }
 /*DW*/
 #page05 .DW .DW-ri-bj img:nth-child(1){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:1.61rem;
     -webkit-animation: scale 0.1s linear 4.3s both;
     animation: scale 0.1s linear 4.3s both;
@@ -997,7 +997,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(2){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:1.91rem;
     -webkit-animation: scale 0.1s linear 4.5s both;
     animation: scale 0.1s linear 4.5s both;
@@ -1005,7 +1005,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(3){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:2.21rem;
     -webkit-animation: scale 0.1s linear 4.7s both;
     animation: scale 0.1s linear 4.7s both;
@@ -1013,7 +1013,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(4){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:2.51rem;
     -webkit-animation: scale 0.1s linear 4.9s both;
     animation: scale 0.1s linear 4.9s both;
@@ -1021,7 +1021,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(5){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:2.81rem;
     -webkit-animation: scale 0.1s linear 5.1s both;
     animation: scale 0.1s linear 5.1s both;
@@ -1029,7 +1029,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(6){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:3.11rem;
     -webkit-animation: scale 0.1s linear 5.3s both;
     animation: scale 0.1s linear 5.3s both;
@@ -1037,7 +1037,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(7){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:3.41rem;
     -webkit-animation: scale 0.1s linear 5.5s both;
     animation: scale 0.1s linear 5.5s both;
@@ -1045,7 +1045,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(8){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:3.71rem;
     -webkit-animation: scale 0.1s linear 5.7s both;
     animation: scale 0.1s linear 5.7s both;
@@ -1053,7 +1053,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(9){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:4.01rem;
     -webkit-animation: scale 0.1s linear 5.9s both;
     animation: scale 0.1s linear 5.9s both;
@@ -1061,7 +1061,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(10){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:4.31rem;
     -webkit-animation: scale 0.1s linear 6.1s both;
     animation: scale 0.1s linear 6.1s both;
@@ -1069,7 +1069,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(11){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:4.61rem;
     -webkit-animation: scale 0.1s linear 6.3s both;
     animation: scale 0.1s linear 6.3s both;
@@ -1077,7 +1077,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(12){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:4.91rem;
     -webkit-animation: scale 0.1s linear 6.5s both;
     animation: scale 0.1s linear 6.5s both;
@@ -1085,7 +1085,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(13){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:5.21rem;
     -webkit-animation: scale 0.1s linear 6.7s both;
     animation: scale 0.1s linear 6.7s both;
@@ -1093,7 +1093,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(14){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:5.51rem;
     -webkit-animation: scale 0.1s linear 6.9s both;
     animation: scale 0.1s linear 6.9s both;
@@ -1101,7 +1101,7 @@ body {
 #page05 .DW .DW-ri-bj img:nth-child(15){
     width: 0.19rem;
     height: .51rem;
-    top:2.48rem;
+    top:2.25rem;
     left:5.81rem;
     -webkit-animation: scale 0.1s linear 7.1s both;
     animation: scale 0.1s linear 7.1s both;
@@ -1111,7 +1111,7 @@ body {
 #page05 .JS .DW-ri-bj img:nth-child(1){
     width: 0.19rem;
     height: .51rem;
-    top:3.78rem;
+    top:3.4rem;
     left:1.61rem;
     z-index: 10;
     -webkit-animation: scale 0.1s linear 4.3s both;
@@ -1120,7 +1120,7 @@ body {
 #page05 .JS .DW-ri-bj img:nth-child(2){
     width: 0.19rem;
     height: .51rem;
-    top:3.78rem;
+    top:3.4rem;
     left:1.91rem;
     z-index: 10;
     -webkit-animation: scale 0.1s linear 4.5s both;
@@ -1129,7 +1129,7 @@ body {
 #page05 .JS .DW-ri-bj img:nth-child(3){
     width: 0.19rem;
     height: .51rem;
-    top:3.78rem;
+    top:3.4rem;
     left:2.21rem;
     z-index: 10;
     -webkit-animation: scale 0.1s linear 4.7s both;
@@ -1138,7 +1138,7 @@ body {
 #page05 .JS .DW-ri-bj img:nth-child(4){
     width: 0.19rem;
     height: .51rem;
-    top:3.78rem;
+    top:3.4rem;
     left:2.51rem;
     z-index: 10;
     -webkit-animation: scale 0.1s linear 4.9s both;
@@ -1147,7 +1147,7 @@ body {
 #page05 .JS .DW-ri-bj img:nth-child(5){
     width: 0.19rem;
     height: .51rem;
-    top:3.78rem;
+    top:3.4rem;
     left:2.81rem;
     z-index: 10;
     -webkit-animation: scale 0.1s linear 5.1s both;
@@ -1156,7 +1156,7 @@ body {
 #page05 .JS .DW-ri-bj img:nth-child(6){
     width: 0.19rem;
     height: .51rem;
-    top:3.78rem;
+    top:3.4rem;
     left:3.11rem;
     z-index: 10;
     -webkit-animation: scale 0.1s linear 5.3s both;
@@ -1165,7 +1165,7 @@ body {
 #page05 .JS .DW-ri-bj img:nth-child(7){
     width: 0.19rem;
     height: .51rem;
-    top:3.78rem;
+    top:3.4rem;
     left:3.41rem;
     z-index: 10;
     -webkit-animation: scale 0.1s linear 5.5s both;
@@ -1174,7 +1174,7 @@ body {
 #page05 .JS .DW-ri-bj img:nth-child(8){
     width: 0.19rem;
     height: .51rem;
-    top:3.78rem;
+    top:3.4rem;
     left:3.71rem;
     z-index: 10;
     -webkit-animation: scale 0.1s linear 5.7s both;
@@ -1183,7 +1183,7 @@ body {
 #page05 .JS .DW-ri-bj img:nth-child(9){
     width: 0.19rem;
     height: .51rem;
-    top:3.78rem;
+    top:3.4rem;
     left:4.01rem;
     z-index: 10;
     -webkit-animation: scale 0.1s linear 5.9s both;
@@ -1192,7 +1192,7 @@ body {
 #page05 .JS .DW-ri-bj img:nth-child(10){
     width: 0.19rem;
     height: .51rem;
-    top:3.78rem;
+    top:3.4rem;
     left:4.31rem;
     z-index: 10;
     -webkit-animation: scale 0.1s linear 6.1s both;
@@ -1201,7 +1201,7 @@ body {
 #page05 .JS .DW-ri-bj img:nth-child(11){
     width: 0.19rem;
     height: .51rem;
-    top:3.78rem;
+    top:3.4rem;
     left:4.61rem;
     z-index: 10;
     -webkit-animation: scale 0.1s linear 6.3s both;
@@ -1210,7 +1210,7 @@ body {
 #page05 .JS .DW-ri-bj img:nth-child(12){
     width: 0.19rem;
     height: .51rem;
-    top:3.78rem;
+    top:3.4rem;
     left:4.91rem;
     z-index: 10;
     -webkit-animation: scale 0.1s linear 6.5s both;
@@ -1219,7 +1219,7 @@ body {
 #page05 .JS .DW-ri-bj img:nth-child(13){
     width: 0.19rem;
     height: .51rem;
-    top:3.78rem;
+    top:3.4rem;
     left:5.21rem;
     z-index: 10;
     -webkit-animation: scale 0.1s linear 6.5s both;
@@ -1229,7 +1229,7 @@ body {
 #page05 .Vue .DW-ri-bj img:nth-child(1){
      width: 0.19rem;
      height: .51rem;
-     top:5.05rem;
+     top:4.6rem;
      left:1.61rem;
      -webkit-animation: scale 0.1s linear 4.3s both;
      animation: scale 0.1s linear 4.3s both;
@@ -1237,7 +1237,7 @@ body {
 #page05 .Vue .DW-ri-bj img:nth-child(2){
     width: 0.19rem;
     height: .51rem;
-    top:5.05rem;
+    top:4.6rem;
     left:1.91rem;
     -webkit-animation: scale 0.1s linear 4.5s both;
     animation: scale 0.1s linear 4.5s both;
@@ -1245,7 +1245,7 @@ body {
 #page05 .Vue .DW-ri-bj img:nth-child(3){
     width: 0.19rem;
     height: .51rem;
-    top:5.05rem;
+    top:4.6rem;
     left:2.21rem;
     -webkit-animation: scale 0.1s linear 4.7s both;
     animation: scale 0.1s linear 4.7s both;
@@ -1253,7 +1253,7 @@ body {
 #page05 .Vue .DW-ri-bj img:nth-child(4){
     width: 0.19rem;
     height: .51rem;
-    top:5.05rem;
+    top:4.6rem;
     left:2.51rem;
     -webkit-animation: scale 0.1s linear 4.9s both;
     animation: scale 0.1s linear 4.9s both;
@@ -1261,7 +1261,7 @@ body {
 #page05 .Vue .DW-ri-bj img:nth-child(5){
     width: 0.19rem;
     height: .51rem;
-    top:5.05rem;
+    top:4.6rem;
     left:2.81rem;
     -webkit-animation: scale 0.1s linear 5.1s both;
     animation: scale 0.1s linear 5.1s both;
@@ -1269,7 +1269,7 @@ body {
 #page05 .Vue .DW-ri-bj img:nth-child(6){
     width: 0.19rem;
     height: .51rem;
-    top:5.05rem;
+    top:4.6rem;
     left:3.11rem;
     -webkit-animation: scale 0.1s linear 5.3s both;
     animation: scale 0.1s linear 5.3s both;
@@ -1277,7 +1277,7 @@ body {
 #page05 .Vue .DW-ri-bj img:nth-child(7){
     width: 0.19rem;
     height: .51rem;
-    top:5.05rem;
+    top:4.6rem;
     left:3.41rem;
     -webkit-animation: scale 0.1s linear 5.5s both;
     animation: scale 0.1s linear 5.5s both;
@@ -1285,7 +1285,7 @@ body {
 #page05 .Vue .DW-ri-bj img:nth-child(8){
     width: 0.19rem;
     height: .51rem;
-    top:5.05rem;
+    top:4.6rem;
     left:3.71rem;
     -webkit-animation: scale 0.1s linear 5.7s both;
     animation: scale 0.1s linear 5.7s both;
@@ -1293,7 +1293,7 @@ body {
 #page05 .Vue .DW-ri-bj img:nth-child(9){
     width: 0.19rem;
     height: .51rem;
-    top:5.05rem;
+    top:4.6rem;
     left:4.01rem;
     -webkit-animation: scale 0.1s linear 5.9s both;
     animation: scale 0.1s linear 5.9s both;
@@ -1301,7 +1301,7 @@ body {
 #page05 .Vue .DW-ri-bj img:nth-child(10){
     width: 0.19rem;
     height: .51rem;
-    top:5.05rem;
+    top:4.6rem;
     left:4.31rem;
     -webkit-animation: scale 0.1s linear 6.1s both;
     animation: scale 0.1s linear 6.1s both;
@@ -1309,7 +1309,7 @@ body {
 #page05 .Vue .DW-ri-bj img:nth-child(11){
     width: 0.19rem;
     height: .51rem;
-    top:5.05rem;
+    top:4.6rem;
     left:4.61rem;
     -webkit-animation: scale 0.1s linear 6.3s both;
     animation: scale 0.1s linear 6.3s both;
@@ -1317,7 +1317,7 @@ body {
 #page05 .Vue .DW-ri-bj img:nth-child(12){
     width: 0.19rem;
     height: .51rem;
-    top:5.05rem;
+    top:4.6rem;
     left:4.91rem;
     -webkit-animation: scale 0.1s linear 6.5s both;
     animation: scale 0.1s linear 6.5s both;
@@ -1327,7 +1327,7 @@ body {
      width: 0.19rem;
      height: .51rem;
      z-index: 10;
-     top:6.35rem;
+     top:5.8rem;
      left:1.61rem;
      -webkit-animation: scale 0.1s linear 4.3s both;
      animation: scale 0.1s linear 4.3s both;
@@ -1336,7 +1336,7 @@ body {
     width: 0.19rem;
     height: .51rem;
     z-index: 10;
-    top:6.35rem;
+    top:5.8rem;
     left:1.91rem;
     -webkit-animation: scale 0.1s linear 4.5s both;
     animation: scale 0.1s linear 4.5s both;
@@ -1345,7 +1345,7 @@ body {
     width: 0.19rem;
     height: .51rem;
     z-index: 10;
-    top:6.35rem;
+    top:5.8rem;
     left:2.21rem;
     -webkit-animation: scale 0.1s linear 4.7s both;
     animation: scale 0.1s linear 4.7s both;
@@ -1354,7 +1354,7 @@ body {
     width: 0.19rem;
     height: .51rem;
     z-index: 10;
-    top:6.35rem;
+    top:5.8rem;
     left:2.51rem;
     -webkit-animation: scale 0.1s linear 4.9s both;
     animation: scale 0.1s linear 4.9s both;
@@ -1363,7 +1363,7 @@ body {
     width: 0.19rem;
     height: .51rem;
     z-index: 10;
-    top:6.35rem;
+    top:5.8rem;
     left:2.81rem;
     -webkit-animation: scale 0.1s linear 5.1s both;
     animation: scale 0.1s linear 5.1s both;
@@ -1372,7 +1372,7 @@ body {
     width: 0.19rem;
     height: .51rem;
     z-index: 10;
-    top:6.35rem;
+    top:5.8rem;
     left:3.11rem;
     -webkit-animation: scale 0.1s linear 5.3s both;
     animation: scale 0.1s linear 5.3s both;
@@ -1381,7 +1381,7 @@ body {
     width: 0.19rem;
     height: .51rem;
     z-index: 10;
-    top:6.35rem;
+    top:5.8rem;
     left:3.41rem;
     -webkit-animation: scale 0.1s linear 5.5s both;
     animation: scale 0.1s linear 5.5s both;
@@ -1390,7 +1390,7 @@ body {
     width: 0.19rem;
     height: .51rem;
     z-index: 10;
-    top:6.35rem;
+    top:5.8rem;
     left:3.71rem;
     -webkit-animation: scale 0.1s linear 5.7s both;
     animation: scale 0.1s linear 5.7s both;
@@ -1399,7 +1399,7 @@ body {
     width: 0.19rem;
     height: .51rem;
     z-index: 10;
-    top:6.35rem;
+    top:5.8rem;
     left:4.01rem;
     -webkit-animation: scale 0.1s linear 5.9s both;
     animation: scale 0.1s linear 5.9s both;
@@ -1408,7 +1408,7 @@ body {
     width: 0.19rem;
     height: .51rem;
     z-index: 10;
-    top:6.35rem;
+    top:5.8rem;
     left:4.31rem;
     -webkit-animation: scale 0.1s linear 6.1s both;
     animation: scale 0.1s linear 6.1s both;
@@ -1417,7 +1417,7 @@ body {
     width: 0.19rem;
     height: .51rem;
     z-index: 10;
-    top:6.35rem;
+    top:5.8rem;
     left:4.61rem;
     -webkit-animation: scale 0.1s linear 6.3s both;
     animation: scale 0.1s linear 6.3s both;
@@ -1426,7 +1426,7 @@ body {
     width: 0.19rem;
     height: .51rem;
     z-index: 10;
-    top:6.35rem;
+    top:5.8rem;
     left:5.81rem;
     -webkit-animation: scale 0.1s linear 6.5s both;
     animation: scale 0.1s linear 6.5s both;
@@ -1435,7 +1435,7 @@ body {
  #page05 .NODE .DW-ri-bj img:nth-child(1){
      width: 0.19rem;
      height: .51rem;
-     top:7.65rem;
+     top:7rem;
      left:1.61rem;
      -webkit-animation: scale 0.1s linear 4.3s both;
      animation: scale 0.1s linear 4.3s both;
@@ -1443,7 +1443,7 @@ body {
 #page05 .NODE .DW-ri-bj img:nth-child(2){
     width: 0.19rem;
     height: .51rem;
-    top:7.65rem;
+    top:7rem;
     left:1.91rem;
     -webkit-animation: scale 0.1s linear 4.5s both;
     animation: scale 0.1s linear 4.5s both;
@@ -1451,7 +1451,7 @@ body {
 #page05 .NODE .DW-ri-bj img:nth-child(3){
     width: 0.19rem;
     height: .51rem;
-    top:7.65rem;
+    top:7rem;
     left:2.21rem;
     -webkit-animation: scale 0.1s linear 4.7s both;
     animation: scale 0.1s linear 4.7s both;
@@ -1459,7 +1459,7 @@ body {
 #page05 .NODE .DW-ri-bj img:nth-child(4){
     width: 0.19rem;
     height: .51rem;
-    top:7.65rem;
+    top:7rem;
     left:2.51rem;
     -webkit-animation: scale 0.1s linear 4.9s both;
     animation: scale 0.1s linear 4.9s both;
@@ -1467,7 +1467,7 @@ body {
 #page05 .NODE .DW-ri-bj img:nth-child(5){
     width: 0.19rem;
     height: .51rem;
-    top:7.65rem;
+    top:7rem;
     left:2.81rem;
     -webkit-animation: scale 0.1s linear 5.1s both;
     animation: scale 0.1s linear 5.1s both;
@@ -1475,7 +1475,7 @@ body {
 #page05 .NODE .DW-ri-bj img:nth-child(6){
     width: 0.19rem;
     height: .51rem;
-    top:7.65rem;
+    top:7rem;
     left:3.11rem;
     -webkit-animation: scale 0.1s linear 5.3s both;
     animation: scale 0.1s linear 5.3s both;
@@ -1483,7 +1483,7 @@ body {
 #page05 .NODE .DW-ri-bj img:nth-child(7){
     width: 0.19rem;
     height: .51rem;
-    top:7.65rem;
+    top:7rem;
     left:3.41rem;
     -webkit-animation: scale 0.1s linear 5.5s both;
     animation: scale 0.1s linear 5.5s both;
@@ -1491,7 +1491,7 @@ body {
 #page05 .NODE .DW-ri-bj img:nth-child(8){
     width: 0.19rem;
     height: .51rem;
-    top:7.65rem;
+    top:7rem;
     left:3.71rem;
     -webkit-animation: scale 0.1s linear 5.7s both;
     animation: scale 0.1s linear 5.7s both;
@@ -1499,7 +1499,7 @@ body {
 #page05 .NODE .DW-ri-bj img:nth-child(9){
     width: 0.19rem;
     height: .51rem;
-    top:7.65rem;
+    top:7rem;
     left:4.01rem;
     -webkit-animation: scale 0.1s linear 5.9s both;
     animation: scale 0.1s linear 5.9s both;
@@ -1507,7 +1507,7 @@ body {
 #page05 .NODE .DW-ri-bj img:nth-child(10){
     width: 0.19rem;
     height: .51rem;
-    top:7.65rem;
+    top:7rem;
     left:4.31rem;
     -webkit-animation: scale 0.1s linear 6.1s both;
     animation: scale 0.1s linear 6.1s both;
@@ -1515,7 +1515,7 @@ body {
 #page05 .NODE .DW-ri-bj img:nth-child(11){
     width: 0.19rem;
     height: .51rem;
-    top:7.65rem;
+    top:7rem;
     left:4.61rem;
     -webkit-animation: scale 0.1s linear 6.3s both;
     animation: scale 0.1s linear 6.3s both;
@@ -1524,7 +1524,7 @@ body {
 #page05 .PS .DW-ri-bj img:nth-child(1){
      width: 0.19rem;
      height: .51rem;
-     top:8.95rem;
+     top:8.2rem;
      left:1.61rem;
      -webkit-animation: scale 0.1s linear 4.3s both;
      animation: scale 0.1s linear 4.3s both;
@@ -1532,7 +1532,7 @@ body {
 #page05 .PS .DW-ri-bj img:nth-child(2){
     width: 0.19rem;
     height: .51rem;
-    top:8.95rem;
+    top:8.2rem;
     left:1.91rem;
     -webkit-animation: scale 0.1s linear 4.5s both;
     animation: scale 0.1s linear 4.5s both;
@@ -1540,7 +1540,7 @@ body {
 #page05 .PS .DW-ri-bj img:nth-child(3){
     width: 0.19rem;
     height: .51rem;
-    top:8.95rem;
+    top:8.2rem;
     left:2.21rem;
     -webkit-animation: scale 0.1s linear 4.7s both;
     animation: scale 0.1s linear 4.7s both;
@@ -1548,7 +1548,7 @@ body {
 #page05 .PS .DW-ri-bj img:nth-child(4){
     width: 0.19rem;
     height: .51rem;
-    top:8.95rem;
+    top:8.2rem;
     left:2.51rem;
     -webkit-animation: scale 0.1s linear 4.9s both;
     animation: scale 0.1s linear 4.9s both;
@@ -1556,7 +1556,7 @@ body {
 #page05 .PS .DW-ri-bj img:nth-child(5){
     width: 0.19rem;
     height: .51rem;
-    top:8.95rem;
+    top:8.2rem;
     left:2.81rem;
     -webkit-animation: scale 0.1s linear 5.1s both;
     animation: scale 0.1s linear 5.1s both;
@@ -1564,7 +1564,7 @@ body {
 #page05 .PS .DW-ri-bj img:nth-child(6){
     width: 0.19rem;
     height: .51rem;
-    top:8.95rem;
+    top:8.2rem;
     left:3.11rem;
     -webkit-animation: scale 0.1s linear 5.3s both;
     animation: scale 0.1s linear 5.3s both;
@@ -1572,7 +1572,7 @@ body {
 #page05 .PS .DW-ri-bj img:nth-child(7){
     width: 0.19rem;
     height: .51rem;
-    top:8.95rem;
+    top:8.2rem;
     left:3.41rem;
     -webkit-animation: scale 0.1s linear 5.5s both;
     animation: scale 0.1s linear 5.5s both;
@@ -1580,7 +1580,7 @@ body {
 #page05 .PS .DW-ri-bj img:nth-child(8){
     width: 0.19rem;
     height: .51rem;
-    top:8.95rem;
+    top:8.2rem;
     left:3.71rem;
     -webkit-animation: scale 0.1s linear 5.7s both;
     animation: scale 0.1s linear 5.7s both;
@@ -1594,7 +1594,7 @@ body {
     font-family:'黑体';
     position: absolute;
     top:8.28rem;
-    left:.85rem;
+    left:.8rem;
     font-size: 0.25rem;
     -webkit-animation: scale 0.5s linear 3.8s both;
     animation: scale 0.5s linear 3.8s both;
@@ -1629,67 +1629,67 @@ body {
     height: 0.44rem;
 }
 #page05 .PS .ps-right img:nth-child(1){
-    top:3.78rem;
+    top:3.4rem;
     left:1.65rem;
 }
 #page05 .PS .ps-right img:nth-child(2){
-    top:3.78rem;
+    top:3.4rem;
     left:1.95rem;
 }
 #page05 .PS .ps-right img:nth-child(3){
-    top:3.78rem;
+    top:3.4rem;
     left:2.25rem;
 }
 #page05 .PS .ps-right img:nth-child(4){
-    top:3.78rem;
+    top:3.4rem;
     left:2.55rem;
 }
 #page05 .PS .ps-right img:nth-child(5){
-    top:3.78rem;
+    top:3.4rem;
     left:1.65rem;
 }
 #page05 .PS .ps-right img:nth-child(6){
-    top:3.78rem;
+    top:3.4rem;
     left:2.85rem;
 }
 #page05 .PS .ps-right img:nth-child(7){
-    top:3.78rem;
+    top:3.4rem;
     left:3.15rem;
 }
 #page05 .PS .ps-right img:nth-child(8){
-    top:3.78rem;
+    top:3.4rem;
     left:3.45rem;
 }
 #page05 .PS .ps-right img:nth-child(9){
-    top:3.78rem;
+    top:3.4rem;
     left:3.75rem;
 }
 #page05 .PS .ps-right img:nth-child(10){
-    top:3.78rem;
+    top:3.4rem;
     left:4.05rem;
 }
 #page05 .PS .ps-right img:nth-child(11){
-    top:3.78rem;
+    top:3.4rem;
     left:4.35rem;
 }
 #page05 .PS .ps-right img:nth-child(12){
-    top:3.78rem;
+    top:3.4rem;
     left:4.65rem;
 }
 #page05 .PS .ps-right img:nth-child(13){
-    top:3.78rem;
+    top:3.4rem;
     left:4.95rem;
 }
 #page05 .PS .ps-right img:nth-child(14){
-    top:3.78rem;
+    top:3.4rem;
     left:5.25rem;
 }
 #page05 .PS .ps-right img:nth-child(15){
-    top:3.78rem;
+    top:3.4rem;
     left:5.55rem;
 }
 #page05 .PS .ps-right img:nth-child(16){
-    top:3.78rem;
+    top:3.4rem;
     left:5.85rem;
 }
 /*vue*/
@@ -1736,67 +1736,67 @@ body {
     height: 0.44rem;
 }
 #page05 .Vue .ve-right img:nth-child(1){
-    top:5.05rem;
+    top:4.6rem;
     left:1.65rem;
 }
 #page05 .Vue .ve-right img:nth-child(2){
-    top:5.05rem;
+    top:4.6rem;
     left:1.95rem;
 }
 #page05 .Vue .ve-right img:nth-child(3){
-    top:5.05rem;
+    top:4.6rem;
     left:2.25rem;
 }
 #page05 .Vue .ve-right img:nth-child(4){
-    top:5.05rem;
+    top:4.6rem;
     left:2.55rem;
 }
 #page05 .Vue .ve-right img:nth-child(5){
-    top:5.05rem;
+    top:4.6rem;
     left:1.65rem;
 }
 #page05 .Vue .ve-right img:nth-child(6){
-    top:5.05rem;
+    top:4.6rem;
     left:2.85rem;
 }
 #page05 .Vue .ve-right img:nth-child(7){
-    top:5.05rem;
+    top:4.6rem;
     left:3.15rem;
 }
 #page05 .Vue .ve-right img:nth-child(8){
-    top:5.05rem;
+    top:4.6rem;
     left:3.45rem;
 }
 #page05 .Vue .ve-right img:nth-child(9){
-    top:5.05rem;
+    top:4.6rem;
     left:3.75rem;
 }
 #page05 .Vue .ve-right img:nth-child(10){
-    top:5.05rem;
+    top:4.6rem;
     left:4.05rem;
 }
 #page05 .Vue .ve-right img:nth-child(11){
-    top:5.05rem;
+    top:4.6rem;
     left:4.35rem;
 }
 #page05 .Vue .ve-right img:nth-child(12){
-    top:5.05rem;
+    top:4.6rem;
     left:4.65rem;
 }
 #page05 .Vue .ve-right img:nth-child(13){
-    top:5.05rem;
+    top:4.6rem;
     left:4.95rem;
 }
 #page05 .Vue .ve-right img:nth-child(14){
-    top:5.05rem;
+    top:4.6rem;
     left:5.25rem;
 }
 #page05 .Vue .ve-right img:nth-child(15){
-    top:5.05rem;
+    top:4.6rem;
     left:5.55rem;
 }
 #page05 .Vue .ve-right img:nth-child(16){
-    top:5.05rem;
+    top:4.6rem;
     left:5.85rem;
 }
 /*js*/
@@ -1843,67 +1843,67 @@ body {
     height: 0.44rem;
 }
 #page05 .JS .js-right img:nth-child(1){
-    top:8.95rem;
+    top:8.2rem;
     left:1.65rem;
 }
 #page05 .JS .js-right img:nth-child(2){
-    top:8.95rem;
+    top:8.2rem;
     left:1.95rem;
 }
 #page05 .JS .js-right img:nth-child(3){
-    top:8.95rem;
+    top:8.2rem;
     left:2.25rem;
 }
 #page05 .JS .js-right img:nth-child(4){
-    top:8.95rem;
+    top:8.2rem;
     left:2.55rem;
 }
 #page05 .JS .js-right img:nth-child(5){
-    top:8.95rem;
+    top:8.2rem;
     left:1.65rem;
 }
 #page05 .JS .js-right img:nth-child(6){
-    top:8.95rem;
+    top:8.2rem;
     left:2.85rem;
 }
 #page05 .JS .js-right img:nth-child(7){
-    top:8.95rem;
+    top:8.2rem;
     left:3.15rem;
 }
 #page05 .JS .js-right img:nth-child(8){
-    top:8.95rem;
+    top:8.2rem;
     left:3.45rem;
 }
 #page05 .JS .js-right img:nth-child(9){
-    top:8.95rem;
+    top:8.2rem;
     left:3.75rem;
 }
 #page05 .JS .js-right img:nth-child(10){
-    top:8.95rem;
+    top:8.2rem;
     left:4.05rem;
 }
 #page05 .JS .js-right img:nth-child(11){
-    top:8.95rem;
+    top:8.2rem;
     left:4.35rem;
 }
 #page05 .JS .js-right img:nth-child(12){
-    top:8.95rem;
+    top:8.2rem;
     left:4.65rem;
 }
 #page05 .JS .js-right img:nth-child(13){
-    top:8.95rem;
+    top:8.2rem;
     left:4.95rem;
 }
 #page05 .JS .js-right img:nth-child(14){
-    top:8.95rem;
+    top:8.2rem;
     left:5.25rem;
 }
 #page05 .JS .js-right img:nth-child(15){
-    top:8.95rem;
+    top:8.2rem;
     left:5.55rem;
 }
 #page05 .JS .js-right img:nth-child(16){
-    top:8.95rem;
+    top:8.2rem;
     left:5.85rem;
 }
 /*react*/
@@ -1915,7 +1915,7 @@ body {
     font-family:'黑体';
     position: absolute;
     top:5.88rem;
-    left:0.8rem;
+    left:0.7rem;
     font-size: 0.23rem;
     -webkit-animation: scale 0.5s linear 2.8s both;
     animation: scale 0.5s linear 2.8s both;
@@ -1950,67 +1950,67 @@ body {
     height: 0.44rem;
 }
 #page05 .React .RT-right img:nth-child(1){
-    top:7.65rem;
+    top:7rem;
     left:1.65rem;
 }
 #page05 .React .RT-right img:nth-child(2){
-    top:7.65rem;
+    top:7rem;
     left:1.95rem;
 }
 #page05 .React .RT-right img:nth-child(3){
-    top:7.65rem;
+    top:7rem;
     left:2.25rem;
 }
 #page05 .React .RT-right img:nth-child(4){
-    top:7.65rem;
+    top:7rem;
     left:2.55rem;
 }
 #page05 .React .RT-right img:nth-child(5){
-    top:7.65rem;
+    top:7rem;
     left:1.65rem;
 }
 #page05 .React .RT-right img:nth-child(6){
-    top:7.65rem;
+    top:7rem;
     left:2.85rem;
 }
 #page05 .React .RT-right img:nth-child(7){
-    top:7.65rem;
+    top:7rem;
     left:3.15rem;
 }
 #page05 .React .RT-right img:nth-child(8){
-    top:7.65rem;
+    top:7rem;
     left:3.45rem;
 }
 #page05 .React .RT-right img:nth-child(9){
-    top:7.65rem;
+    top:7rem;
     left:3.75rem;
 }
 #page05 .React .RT-right img:nth-child(10){
-    top:7.65rem;
+    top:7rem;
     left:4.05rem;
 }
 #page05 .React .RT-right img:nth-child(11){
-    top:7.65rem;
+    top:7rem;
     left:4.35rem;
 }
 #page05 .React .RT-right img:nth-child(12){
-    top:7.65rem;
+    top:7rem;
     left:4.65rem;
 }
 #page05 .React .RT-right img:nth-child(13){
-    top:7.65rem;
+    top:7rem;
     left:4.95rem;
 }
 #page05 .React .RT-right img:nth-child(14){
-    top:7.65rem;
+    top:7rem;
     left:5.25rem;
 }
 #page05 .React .RT-right img:nth-child(15){
-    top:7.65rem;
+    top:7rem;
     left:5.55rem;
 }
 #page05 .React .RT-right img:nth-child(16){
-    top:7.65rem;
+    top:7rem;
     left:5.85rem;
 }
 /*node*/
@@ -2057,67 +2057,67 @@ body {
     height: 0.44rem;
 }
 #page05 .NODE .nd-right img:nth-child(1){
-    top:6.35rem;
+    top:5.8rem;
     left:1.65rem;
 }
 #page05 .NODE .nd-right img:nth-child(2){
-    top:6.35rem;
+    top:5.8rem;
     left:1.95rem;
 }
 #page05 .NODE .nd-right img:nth-child(3){
-    top:6.35rem;
+    top:5.8rem;
     left:2.25rem;
 }
 #page05 .NODE .nd-right img:nth-child(4){
-    top:6.35rem;
+    top:5.8rem;
     left:2.55rem;
 }
 #page05 .NODE .nd-right img:nth-child(5){
-    top:6.35rem;
+    top:5.8rem;
     left:1.65rem;
 }
 #page05 .NODE .nd-right img:nth-child(6){
-    top:6.35rem;
+    top:5.8rem;
     left:2.85rem;
 }
 #page05 .NODE .nd-right img:nth-child(7){
-    top:6.35rem;
+    top:5.8rem;
     left:3.15rem;
 }
 #page05 .NODE .nd-right img:nth-child(8){
-    top:6.35rem;
+    top:5.8rem;
     left:3.45rem;
 }
 #page05 .NODE .nd-right img:nth-child(9){
-    top:6.35rem;
+    top: 5.8rem;
     left:3.75rem;
 }
 #page05 .NODE .nd-right img:nth-child(10){
-    top:6.35rem;
+    top:5.8rem;
     left:4.05rem;
 }
 #page05 .NODE .nd-right img:nth-child(11){
-    top:6.35rem;
+    top:5.8rem;
     left:4.35rem;
 }
 #page05 .NODE .nd-right img:nth-child(12){
-    top:6.35rem;
+    top:5.8rem;
     left:4.65rem;
 }
 #page05 .NODE .nd-right img:nth-child(13){
-    top:6.35rem;
+    top:5.8rem;
     left:4.95rem;
 }
 #page05 .NODE .nd-right img:nth-child(14){
-    top:6.35rem;
+    top:5.8rem;
     left:5.25rem;
 }
 #page05 .NODE .nd-right img:nth-child(15){
-    top:6.35rem;
+    top:5.8rem;
     left:5.55rem;
 }
 #page05 .NODE .nd-right img:nth-child(16){
-    top:6.35rem;
+    top:5.8rem;
     left:5.85rem;
 }
 /*第六屏*/
@@ -2280,8 +2280,9 @@ body {
 #page06 .work img:nth-child(12){
     width:0.01rem;
     height:2rem;
-    bottom: 1.5rem;
+    top: 7.8rem;
     left:3.2rem;
+    position: absolute;
     -webkit-animation: fadeInUp 0.5s linear 1.8s both;
     animation: fadeInUp 0.5s linear 1.8s both;
 }
@@ -2434,7 +2435,7 @@ body {
     display: block;
 }
 #page07 .cat span:nth-child(1){
-    top:5.2rem;
+    top:5.5rem;
     left:1.6rem;
     position: absolute;
     -webkit-animation: rollIn 0.6s linear 2.5s both;
@@ -2442,7 +2443,7 @@ body {
 
 }
 #page07 .cat span:nth-child(2){
-    top:5.9rem;
+    top:6.5rem;
     left:2rem;
     position: absolute;
     -webkit-animation: zoomInUp 1s linear 2.5s both;
